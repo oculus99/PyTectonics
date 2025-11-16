@@ -4,6 +4,10 @@ PyTectonics to python3 from python2, that is now obsolete.
 
 Warning: This is test version only: maybe buggy and slow.
 
+Konown problems 16.11: "version 04.0021 eats initial, round conntinnets".
+
+
+
 This project is based on:
 
 PyTectonics 
